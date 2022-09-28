@@ -1,0 +1,38 @@
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeCustomerJson\bin\Debug\SerializeCustomerJson.exe.config
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeCustomerJson\bin\Debug\SerializeCustomerJson.exe
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeCustomerJson\bin\Debug\SerializeCustomerJson.pdb
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.Form1.resources
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.Properties.Resources.resources
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.csproj.GenerateResource.Cache
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.exe
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.pdb
+C:\Work\DemoC#\SerializeDemoProject\SerializeCustomerJson\bin\Debug\SerializeCustomerJson.exe.config
+C:\Work\DemoC#\SerializeDemoProject\SerializeCustomerJson\bin\Debug\SerializeCustomerJson.exe
+C:\Work\DemoC#\SerializeDemoProject\SerializeCustomerJson\bin\Debug\SerializeCustomerJson.pdb
+C:\Work\DemoC#\SerializeDemoProject\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.csprojAssemblyReference.cache
+C:\Work\DemoC#\SerializeDemoProject\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.Form1.resources
+C:\Work\DemoC#\SerializeDemoProject\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.Properties.Resources.resources
+C:\Work\DemoC#\SerializeDemoProject\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.csproj.GenerateResource.cache
+C:\Work\DemoC#\SerializeDemoProject\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.csproj.CoreCompileInputs.cache
+C:\Work\DemoC#\SerializeDemoProject\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.exe
+C:\Work\DemoC#\SerializeDemoProject\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeCustomerJson\bin\Debug\SerializeCustomerJson.exe.config
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeCustomerJson\bin\Debug\SerializeCustomerJson.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeCustomerJson\bin\Debug\SerializeCustomerJson.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.csproj.AssemblyReference.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.Form1.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.Properties.Resources.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.csproj.GenerateResource.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.csproj.CoreCompileInputs.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeCustomerJson\bin\Debug\SerializeCustomerJson.exe.config
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeCustomerJson\bin\Debug\SerializeCustomerJson.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeCustomerJson\bin\Debug\SerializeCustomerJson.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.csproj.AssemblyReference.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.Form1.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.Properties.Resources.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.csproj.GenerateResource.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.csproj.CoreCompileInputs.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeCustomerJson\obj\Debug\SerializeCustomerJson.pdb

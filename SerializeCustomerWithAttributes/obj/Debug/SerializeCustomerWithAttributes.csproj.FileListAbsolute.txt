@@ -1,0 +1,8 @@
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeCustomerWithAttributes\bin\Debug\SerializeCustomerWithAttributes.exe.config
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeCustomerWithAttributes\bin\Debug\SerializeCustomerWithAttributes.exe
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeCustomerWithAttributes\bin\Debug\SerializeCustomerWithAttributes.pdb
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeCustomerWithAttributes\obj\Debug\SerializeCustomerWithAttributes.Form1.resources
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeCustomerWithAttributes\obj\Debug\SerializeCustomerWithAttributes.Properties.Resources.resources
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeCustomerWithAttributes\obj\Debug\SerializeCustomerWithAttributes.csproj.GenerateResource.Cache
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeCustomerWithAttributes\obj\Debug\SerializeCustomerWithAttributes.exe
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeCustomerWithAttributes\obj\Debug\SerializeCustomerWithAttributes.pdb

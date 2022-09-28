@@ -1,0 +1,38 @@
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeStudentWithPicture\bin\Debug\SerializeStudentWithPicture.exe.config
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeStudentWithPicture\bin\Debug\SerializeStudentWithPicture.exe
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeStudentWithPicture\bin\Debug\SerializeStudentWithPicture.pdb
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.Form1.resources
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.Properties.Resources.resources
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.csproj.GenerateResource.Cache
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.exe
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.pdb
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentWithPicture\bin\Debug\SerializeStudentWithPicture.exe.config
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentWithPicture\bin\Debug\SerializeStudentWithPicture.exe
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentWithPicture\bin\Debug\SerializeStudentWithPicture.pdb
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.csprojAssemblyReference.cache
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.Form1.resources
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.Properties.Resources.resources
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.csproj.GenerateResource.cache
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.csproj.CoreCompileInputs.cache
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.exe
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentWithPicture\bin\Debug\SerializeStudentWithPicture.exe.config
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentWithPicture\bin\Debug\SerializeStudentWithPicture.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentWithPicture\bin\Debug\SerializeStudentWithPicture.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.csproj.AssemblyReference.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.Form1.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.Properties.Resources.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.csproj.GenerateResource.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.csproj.CoreCompileInputs.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentWithPicture\bin\Debug\SerializeStudentWithPicture.exe.config
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentWithPicture\bin\Debug\SerializeStudentWithPicture.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentWithPicture\bin\Debug\SerializeStudentWithPicture.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.csproj.AssemblyReference.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.Form1.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.Properties.Resources.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.csproj.GenerateResource.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.csproj.CoreCompileInputs.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentWithPicture\obj\Debug\SerializeStudentWithPicture.pdb

@@ -1,0 +1,37 @@
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeStudentArray\bin\Debug\SerializeStudentArray.exe.config
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeStudentArray\bin\Debug\SerializeStudentArray.exe
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeStudentArray\bin\Debug\SerializeStudentArray.pdb
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeStudentArray\obj\Debug\SerializeStudentArray.Form1.resources
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeStudentArray\obj\Debug\SerializeStudentArray.Properties.Resources.resources
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeStudentArray\obj\Debug\SerializeStudentArray.csproj.GenerateResource.Cache
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeStudentArray\obj\Debug\SerializeStudentArray.exe
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeStudentArray\obj\Debug\SerializeStudentArray.pdb
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentArray\bin\Debug\SerializeStudentArray.exe.config
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentArray\bin\Debug\SerializeStudentArray.exe
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentArray\bin\Debug\SerializeStudentArray.pdb
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentArray\obj\Debug\SerializeStudentArray.Form1.resources
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentArray\obj\Debug\SerializeStudentArray.Properties.Resources.resources
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentArray\obj\Debug\SerializeStudentArray.csproj.GenerateResource.cache
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentArray\obj\Debug\SerializeStudentArray.csproj.CoreCompileInputs.cache
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentArray\obj\Debug\SerializeStudentArray.exe
+C:\Work\DemoC#\SerializeDemoProject\SerializeStudentArray\obj\Debug\SerializeStudentArray.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentArray\bin\Debug\SerializeStudentArray.exe.config
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentArray\bin\Debug\SerializeStudentArray.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentArray\bin\Debug\SerializeStudentArray.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentArray\obj\Debug\SerializeStudentArray.csproj.AssemblyReference.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentArray\obj\Debug\SerializeStudentArray.Form1.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentArray\obj\Debug\SerializeStudentArray.Properties.Resources.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentArray\obj\Debug\SerializeStudentArray.csproj.GenerateResource.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentArray\obj\Debug\SerializeStudentArray.csproj.CoreCompileInputs.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentArray\obj\Debug\SerializeStudentArray.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeStudentArray\obj\Debug\SerializeStudentArray.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentArray\bin\Debug\SerializeStudentArray.exe.config
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentArray\bin\Debug\SerializeStudentArray.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentArray\bin\Debug\SerializeStudentArray.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentArray\obj\Debug\SerializeStudentArray.csproj.AssemblyReference.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentArray\obj\Debug\SerializeStudentArray.Form1.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentArray\obj\Debug\SerializeStudentArray.Properties.Resources.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentArray\obj\Debug\SerializeStudentArray.csproj.GenerateResource.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentArray\obj\Debug\SerializeStudentArray.csproj.CoreCompileInputs.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentArray\obj\Debug\SerializeStudentArray.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeStudentArray\obj\Debug\SerializeStudentArray.pdb

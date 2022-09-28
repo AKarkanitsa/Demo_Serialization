@@ -1,0 +1,30 @@
+C:\Work\DemoC#\SerializeDemoProject\SerializeDepartment\bin\Debug\SerializeDepartment.exe.config
+C:\Work\DemoC#\SerializeDemoProject\SerializeDepartment\bin\Debug\SerializeDepartment.exe
+C:\Work\DemoC#\SerializeDemoProject\SerializeDepartment\bin\Debug\SerializeDepartment.pdb
+C:\Work\DemoC#\SerializeDemoProject\SerializeDepartment\obj\Debug\SerializeDepartment.csprojAssemblyReference.cache
+C:\Work\DemoC#\SerializeDemoProject\SerializeDepartment\obj\Debug\SerializeDepartment.Form1.resources
+C:\Work\DemoC#\SerializeDemoProject\SerializeDepartment\obj\Debug\SerializeDepartment.Properties.Resources.resources
+C:\Work\DemoC#\SerializeDemoProject\SerializeDepartment\obj\Debug\SerializeDepartment.csproj.GenerateResource.cache
+C:\Work\DemoC#\SerializeDemoProject\SerializeDepartment\obj\Debug\SerializeDepartment.csproj.CoreCompileInputs.cache
+C:\Work\DemoC#\SerializeDemoProject\SerializeDepartment\obj\Debug\SerializeDepartment.exe
+C:\Work\DemoC#\SerializeDemoProject\SerializeDepartment\obj\Debug\SerializeDepartment.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeDepartment\bin\Debug\SerializeDepartment.exe.config
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeDepartment\bin\Debug\SerializeDepartment.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeDepartment\bin\Debug\SerializeDepartment.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeDepartment\obj\Debug\SerializeDepartment.csproj.AssemblyReference.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeDepartment\obj\Debug\SerializeDepartment.Form1.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeDepartment\obj\Debug\SerializeDepartment.Properties.Resources.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeDepartment\obj\Debug\SerializeDepartment.csproj.GenerateResource.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeDepartment\obj\Debug\SerializeDepartment.csproj.CoreCompileInputs.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeDepartment\obj\Debug\SerializeDepartment.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeDepartment\obj\Debug\SerializeDepartment.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeDepartment\bin\Debug\SerializeDepartment.exe.config
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeDepartment\bin\Debug\SerializeDepartment.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeDepartment\bin\Debug\SerializeDepartment.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeDepartment\obj\Debug\SerializeDepartment.csproj.AssemblyReference.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeDepartment\obj\Debug\SerializeDepartment.Form1.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeDepartment\obj\Debug\SerializeDepartment.Properties.Resources.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeDepartment\obj\Debug\SerializeDepartment.csproj.GenerateResource.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeDepartment\obj\Debug\SerializeDepartment.csproj.CoreCompileInputs.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeDepartment\obj\Debug\SerializeDepartment.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeDepartment\obj\Debug\SerializeDepartment.pdb

@@ -1,0 +1,37 @@
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\XmlSerializeToString\bin\Debug\XmlSerializeToString.exe.config
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\XmlSerializeToString\bin\Debug\XmlSerializeToString.exe
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\XmlSerializeToString\bin\Debug\XmlSerializeToString.pdb
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\XmlSerializeToString\obj\Debug\XmlSerializeToString.Form1.resources
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\XmlSerializeToString\obj\Debug\XmlSerializeToString.Properties.Resources.resources
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\XmlSerializeToString\obj\Debug\XmlSerializeToString.csproj.GenerateResource.Cache
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\XmlSerializeToString\obj\Debug\XmlSerializeToString.exe
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\XmlSerializeToString\obj\Debug\XmlSerializeToString.pdb
+C:\Work\DemoC#\SerializeDemoProject\XmlSerializeToString\bin\Debug\XmlSerializeToString.exe.config
+C:\Work\DemoC#\SerializeDemoProject\XmlSerializeToString\bin\Debug\XmlSerializeToString.exe
+C:\Work\DemoC#\SerializeDemoProject\XmlSerializeToString\bin\Debug\XmlSerializeToString.pdb
+C:\Work\DemoC#\SerializeDemoProject\XmlSerializeToString\obj\Debug\XmlSerializeToString.Form1.resources
+C:\Work\DemoC#\SerializeDemoProject\XmlSerializeToString\obj\Debug\XmlSerializeToString.Properties.Resources.resources
+C:\Work\DemoC#\SerializeDemoProject\XmlSerializeToString\obj\Debug\XmlSerializeToString.csproj.GenerateResource.cache
+C:\Work\DemoC#\SerializeDemoProject\XmlSerializeToString\obj\Debug\XmlSerializeToString.csproj.CoreCompileInputs.cache
+C:\Work\DemoC#\SerializeDemoProject\XmlSerializeToString\obj\Debug\XmlSerializeToString.exe
+C:\Work\DemoC#\SerializeDemoProject\XmlSerializeToString\obj\Debug\XmlSerializeToString.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\XmlSerializeToString\bin\Debug\XmlSerializeToString.exe.config
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\XmlSerializeToString\bin\Debug\XmlSerializeToString.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\XmlSerializeToString\bin\Debug\XmlSerializeToString.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\XmlSerializeToString\obj\Debug\XmlSerializeToString.csproj.AssemblyReference.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\XmlSerializeToString\obj\Debug\XmlSerializeToString.Form1.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\XmlSerializeToString\obj\Debug\XmlSerializeToString.Properties.Resources.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\XmlSerializeToString\obj\Debug\XmlSerializeToString.csproj.GenerateResource.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\XmlSerializeToString\obj\Debug\XmlSerializeToString.csproj.CoreCompileInputs.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\XmlSerializeToString\obj\Debug\XmlSerializeToString.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\XmlSerializeToString\obj\Debug\XmlSerializeToString.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\XmlSerializeToString\bin\Debug\XmlSerializeToString.exe.config
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\XmlSerializeToString\bin\Debug\XmlSerializeToString.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\XmlSerializeToString\bin\Debug\XmlSerializeToString.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\XmlSerializeToString\obj\Debug\XmlSerializeToString.csproj.AssemblyReference.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\XmlSerializeToString\obj\Debug\XmlSerializeToString.Form1.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\XmlSerializeToString\obj\Debug\XmlSerializeToString.Properties.Resources.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\XmlSerializeToString\obj\Debug\XmlSerializeToString.csproj.GenerateResource.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\XmlSerializeToString\obj\Debug\XmlSerializeToString.csproj.CoreCompileInputs.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\XmlSerializeToString\obj\Debug\XmlSerializeToString.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\XmlSerializeToString\obj\Debug\XmlSerializeToString.pdb

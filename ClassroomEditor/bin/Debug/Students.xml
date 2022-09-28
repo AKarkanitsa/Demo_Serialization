@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Student FirstName="впывапывапы" LastName="ывапывапывап" />
+  <Student FirstName="ывапыв" LastName="оапрорп" />
+  <Student FirstName="fgndfg" LastName="dfgjdfgj" />
+</ArrayOfStudent>

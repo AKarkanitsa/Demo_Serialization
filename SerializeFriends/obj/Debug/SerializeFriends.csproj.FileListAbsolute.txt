@@ -1,0 +1,37 @@
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeFriends\bin\Debug\SerializeFriends.exe.config
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeFriends\bin\Debug\SerializeFriends.exe
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeFriends\bin\Debug\SerializeFriends.pdb
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeFriends\obj\Debug\SerializeFriends.Form1.resources
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeFriends\obj\Debug\SerializeFriends.Properties.Resources.resources
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeFriends\obj\Debug\SerializeFriends.csproj.GenerateResource.Cache
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeFriends\obj\Debug\SerializeFriends.exe
+D:\Work_Anya\Work\С#_English\Examples\XML\847282ch25src\847282ch25src\SerializeFriends\obj\Debug\SerializeFriends.pdb
+C:\Work\DemoC#\SerializeDemoProject\SerializeFriends\bin\Debug\SerializeFriends.exe.config
+C:\Work\DemoC#\SerializeDemoProject\SerializeFriends\bin\Debug\SerializeFriends.exe
+C:\Work\DemoC#\SerializeDemoProject\SerializeFriends\bin\Debug\SerializeFriends.pdb
+C:\Work\DemoC#\SerializeDemoProject\SerializeFriends\obj\Debug\SerializeFriends.Form1.resources
+C:\Work\DemoC#\SerializeDemoProject\SerializeFriends\obj\Debug\SerializeFriends.Properties.Resources.resources
+C:\Work\DemoC#\SerializeDemoProject\SerializeFriends\obj\Debug\SerializeFriends.csproj.GenerateResource.cache
+C:\Work\DemoC#\SerializeDemoProject\SerializeFriends\obj\Debug\SerializeFriends.csproj.CoreCompileInputs.cache
+C:\Work\DemoC#\SerializeDemoProject\SerializeFriends\obj\Debug\SerializeFriends.exe
+C:\Work\DemoC#\SerializeDemoProject\SerializeFriends\obj\Debug\SerializeFriends.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeFriends\bin\Debug\SerializeFriends.exe.config
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeFriends\bin\Debug\SerializeFriends.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeFriends\bin\Debug\SerializeFriends.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeFriends\obj\Debug\SerializeFriends.csproj.AssemblyReference.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeFriends\obj\Debug\SerializeFriends.Form1.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeFriends\obj\Debug\SerializeFriends.Properties.Resources.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeFriends\obj\Debug\SerializeFriends.csproj.GenerateResource.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeFriends\obj\Debug\SerializeFriends.csproj.CoreCompileInputs.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeFriends\obj\Debug\SerializeFriends.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\3semester\02_Demo\SerializeDemoProject\SerializeFriends\obj\Debug\SerializeFriends.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeFriends\bin\Debug\SerializeFriends.exe.config
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeFriends\bin\Debug\SerializeFriends.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeFriends\bin\Debug\SerializeFriends.pdb
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeFriends\obj\Debug\SerializeFriends.csproj.AssemblyReference.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeFriends\obj\Debug\SerializeFriends.Form1.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeFriends\obj\Debug\SerializeFriends.Properties.Resources.resources
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeFriends\obj\Debug\SerializeFriends.csproj.GenerateResource.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeFriends\obj\Debug\SerializeFriends.csproj.CoreCompileInputs.cache
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeFriends\obj\Debug\SerializeFriends.exe
+C:\Work\0_Учебные курсы\Конструирование ПО\Demo_Projects\Serialization\SerializeFriends\obj\Debug\SerializeFriends.pdb
