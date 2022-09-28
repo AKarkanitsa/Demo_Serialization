@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeCustomer", "SerializeCustomer\SerializeCustomer.csproj", "{4F4FE751-B0FF-4655-B1B2-8A2E4240E33B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeCustomerJson", "SerializeCustomerJson\SerializeCustomerJson.csproj", "{6B84876D-4C42-421A-BDE9-5F4714DC2CB9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeCustomerJsonWithAttributes", "SerializeCustomerJsonWithAttributes\SerializeCustomerJsonWithAttributes.csproj", "{D25AE148-9674-41D1-AEBA-F06D168E2135}"
@@ -23,16 +21,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlSerializeToString", "Xml
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassroomEditor", "ClassroomEditor\ClassroomEditor.csproj", "{70E1C941-758B-4E2A-85A7-0044EE8CF603}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeCustomer", "SerializeCustomer\SerializeCustomer.csproj", "{4F4FE751-B0FF-4655-B1B2-8A2E4240E33B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4F4FE751-B0FF-4655-B1B2-8A2E4240E33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4F4FE751-B0FF-4655-B1B2-8A2E4240E33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4F4FE751-B0FF-4655-B1B2-8A2E4240E33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4F4FE751-B0FF-4655-B1B2-8A2E4240E33B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6B84876D-4C42-421A-BDE9-5F4714DC2CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6B84876D-4C42-421A-BDE9-5F4714DC2CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B84876D-4C42-421A-BDE9-5F4714DC2CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -69,6 +65,10 @@ Global
 		{70E1C941-758B-4E2A-85A7-0044EE8CF603}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70E1C941-758B-4E2A-85A7-0044EE8CF603}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70E1C941-758B-4E2A-85A7-0044EE8CF603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F4FE751-B0FF-4655-B1B2-8A2E4240E33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4FE751-B0FF-4655-B1B2-8A2E4240E33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4FE751-B0FF-4655-B1B2-8A2E4240E33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4FE751-B0FF-4655-B1B2-8A2E4240E33B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
